@@ -1,0 +1,82 @@
+
+.productbg{
+  background-color: thistle;
+}
+.rbg{
+  background-color:  #A569BD!important;
+}
+
+.mouse{
+  cursor: pointer;
+}
+
+.kyc{
+  background-color: burlywood;
+}
+.image{
+  height: 200px !important;
+  width: 100%;
+}
+
+
+
+@media screen and (max-width: 780px) {
+  .footer{
+    text-align: center !important;
+    background-color: rgb(209, 130, 175) ;
+ 
+  }
+
+}
+body {
+  background-color: #f2f2f2;
+}
+
+.container {
+  width: 400px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #ffffff;
+  border-radius: 5px;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+  text-align: center;
+}
+
+form {
+  margin-top: 20px;
+}
+
+input[type="text"],
+input[type="password"] {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+}
+
+input[type="submit"] {
+  width: 100%;
+  padding: 10px;
+  background-color: #4caf50;
+  color: #ffffff;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+}
+
+input[type="submit"]:hover {
+  background-color: #45a049;
+}
+
+a {
+  color: #999999;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #555555;
+}
