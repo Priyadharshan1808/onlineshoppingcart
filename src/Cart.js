@@ -177,7 +177,7 @@ function Cart() {
             <div className="navbar navbar-expand-lg navbar-light bg-light">
                 <div className="container-fluid">
                     <Link to="/home">
-                        <img src="/image/Logo/OIP.jpeg" width="50" height="50" className="d-inline-block align-top" alt="" />
+                        <img src="/Image/Logo/OIP.jpeg" width="50" height="50" className="d-inline-block align-top" alt="" />
                         <span class="mx-5"></span>
                     </Link>
                     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
